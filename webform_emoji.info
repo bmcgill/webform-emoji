@@ -1,0 +1,7 @@
+name = Webform Emoji Validation
+description = Deny submissions that contain emoji characters.
+core = 7.x
+package = Webform
+
+dependencies[] = webform
+dependencies[] = webform_validation
